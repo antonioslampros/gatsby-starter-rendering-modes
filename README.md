@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby Starter Rendering Modes
+  Gatsby Starter Rendering Modess
 </h1>
 
 Kick off your project with this example boilerplate, which includes examples of how to use the different rendering modes available for gatsby. Now, you can render ahead of time(SSG), just in time(SSR), or fashionably late(DSG)💃.
